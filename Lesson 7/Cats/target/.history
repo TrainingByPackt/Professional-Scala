@@ -1,0 +1,11 @@
+compile
+clean
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+run
+clean

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hartmann/Desktop/packt-courseware-scala/lesson-3/macros/macros/src/main/scala/com/example/Macros.scala:21:44: not found: value name[0m
+[0m[[0m[31merror[0m] [0m[0m      def show(x: Person) = s"Person(name=$name)"[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

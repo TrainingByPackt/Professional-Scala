@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/usr" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/project" />
+            <option value="$PROJECT_DIR$/macros" />
+            <option value="$PROJECT_DIR$/macros/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.0.3" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-XX:MaxPermSize=1024M" />
+  </component>
+</project>

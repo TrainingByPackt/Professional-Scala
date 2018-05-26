@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-build.iml" filepath="$PROJECT_DIR$/.idea/modules/core-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/default-74f796.iml" filepath="$PROJECT_DIR$/.idea/modules/default-74f796.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/default-74f796-build.iml" filepath="$PROJECT_DIR$/.idea/modules/default-74f796-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macros-build~1.iml" filepath="$PROJECT_DIR$/.idea/modules/macros-build~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macros~1.iml" filepath="$PROJECT_DIR$/.idea/modules/macros~1.iml" />
+    </modules>
+  </component>
+</project>

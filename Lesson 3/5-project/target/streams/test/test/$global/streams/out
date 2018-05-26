@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l4.StepTest, org.scalatest.tools.Framework$$anon$1@1bb08fa1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l4.FunctionCallSyntaxCallTest, org.scalatest.tools.Framework$$anon$1@1bb08fa1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l4.StoreRemindTest, org.scalatest.tools.Framework$$anon$1@1bb08fa1, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 370 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 9[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l4.FunctionCallSyntaxCallTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l4.StepTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l4.StoreRemindTest[0m

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mFunctionCallSyntaxCallTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- copy call[0m[0m
+[0m[[0minfo[0m] [0m[32m- named syntax for any method[0m[0m
+[0m[[0minfo[0m] [0m[32m- call by value[0m[0m
+[0m[[0minfo[0m] [0m[32m- later syntax[0m[0m
+[0m[[0minfo[0m] [0m[32m- call by need[0m[0m

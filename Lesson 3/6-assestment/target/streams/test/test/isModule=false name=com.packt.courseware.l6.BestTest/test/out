@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mBestTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- when first relevance in 0.5 and second is 0.6 - choose second[0m[0m
+[0m[[0minfo[0m] [0m[32m- when first relevance in 0.6 and second is 0.5 - choose first[0m[0m
+[0m[[0minfo[0m] [0m[32m- when first relevance in 0.1 and second is not defined - choose first[0m[0m

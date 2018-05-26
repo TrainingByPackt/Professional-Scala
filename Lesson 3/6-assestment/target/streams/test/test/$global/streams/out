@@ -1,0 +1,16 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l6.BestTest, org.scalatest.tools.Framework$$anon$1@104a4f1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l6.FunctionPlaygroundTest, org.scalatest.tools.Framework$$anon$1@104a4f1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l6.FunctionCallSyntaxCallTest, org.scalatest.tools.Framework$$anon$1@104a4f1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l6.StoreRemindTest, org.scalatest.tools.Framework$$anon$1@104a4f1, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.packt.courseware.l6.StepTest, org.scalatest.tools.Framework$$anon$1@104a4f1, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 418 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l6.FunctionPlaygroundTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l6.StoreRemindTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l6.StepTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l6.FunctionCallSyntaxCallTest[0m
+[0m[[0mdebug[0m] [0m	com.packt.courseware.l6.BestTest[0m
