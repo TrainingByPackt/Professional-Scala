@@ -29,6 +29,7 @@ For an optimal student experience, we recommend the following hardware configura
 
 ### Software requirements
 You’ll also need the following software installed in advance:
+
 **Windows**
 * Microsoft Windows 10/8/7 (64 bit)
 * JDK 8
